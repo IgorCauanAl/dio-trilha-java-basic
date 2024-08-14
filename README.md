@@ -1,2 +1,2 @@
 # dio-trilha-java-basic
-Repositório para exercícios e projetos do curso da DIO, exercitando a parte básica da sintaxe java.
+Repositório para um pequeno exercício, simulando uma conta bancária, funcionando pelo terminal, proposto pela plataforma Dio, para treinar a sintaxe básica Java.
